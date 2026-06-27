@@ -6,7 +6,7 @@
       "name": "Lab1",
       "mode": "individual",
       "autograder": "default",
-      "feedback_pr": false,
+      "feedback_pr": true,
       "template": {
         "owner": "AI-on-Chip-at-NCKU-EE",
         "repo": "Lab-4-Template",
