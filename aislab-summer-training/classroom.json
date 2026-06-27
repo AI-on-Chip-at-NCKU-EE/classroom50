@@ -1,0 +1,11 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "AISLab Summer Training",
+  "short_name": "aislab-summer-training",
+  "term": "Summer 2026",
+  "org": "AI-on-Chip-at-NCKU-EE",
+  "team": {
+    "id": 18231071,
+    "slug": "classroom50-aislab-summer-training"
+  }
+}
