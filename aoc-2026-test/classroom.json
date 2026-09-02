@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "AOC 2026 test",
+  "short_name": "aoc-2026-test",
+  "term": "",
+  "org": "AI-on-Chip-at-NCKU-EE",
+  "team": {
+    "id": 19300110,
+    "slug": "classroom50-aoc-2026-test"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19300111,
+      "slug": "classroom50-aoc-2026-test-teacher"
+    },
+    "hta": {
+      "id": 19300113,
+      "slug": "classroom50-aoc-2026-test-hta"
+    },
+    "ta": {
+      "id": 19300114,
+      "slug": "classroom50-aoc-2026-test-ta"
+    }
+  }
+}
