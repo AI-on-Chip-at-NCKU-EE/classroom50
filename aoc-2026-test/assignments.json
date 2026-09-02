@@ -18,6 +18,24 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "lab-3",
+      "name": "Lab-3",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "AI-on-Chip-at-NCKU-EE",
+        "repo": "Lab-3-Template",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
